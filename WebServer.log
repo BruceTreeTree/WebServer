@@ -1,0 +1,271 @@
+2022-05-03 16:48:00
+New connection from 192.168.2.165:55471 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:45
+2022-05-03 16:48:28
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-03 16:48:43
+New connection from 192.168.2.165:55472 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:45
+2022-05-03 16:51:22
+New connection from 192.168.2.165:55798 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:57
+2022-05-03 16:52:39
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 22:45:13
+New connection from 192.168.2.165:55707 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:45:33
+New connection from 192.168.2.165:55708 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:45:35
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 22:45:44
+Request:  -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 22:45:44
+New connection from 192.168.2.165:50829 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:48:29
+New connection from 192.168.2.165:50892 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:49:21
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 22:50:09
+New connection from 192.168.2.165:58855 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:50:49
+New connection from 192.168.2.165:58870 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:51:02
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 22:52:56
+New connection from 192.168.2.165:58915 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 22:53:09
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:02:00
+New connection from 192.168.2.165:63446 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:02:55
+New connection from 192.168.2.165:63445 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:03:06
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:03:07
+Request:  -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:09:54
+New connection from 192.168.2.165:57266 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:09:54
+New connection from 192.168.2.165:57267 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:09:54
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:09:54
+Request: GET /favicon.ico HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.2.195:9999/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:06
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:06
+New connection from 192.168.2.165:57272 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:10:06
+Request: GET /favicon.ico HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.2.195:9999/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:24
+New connection from 192.168.2.165:57277 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:10:24
+New connection from 192.168.2.165:57278 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:10:24
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:24
+Request: GET /favicon.ico HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.2.195:9999/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:33
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:33
+New connection from 192.168.2.165:57285 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:10:49
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:49
+New connection from 192.168.2.165:57290 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:10:56
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:10:56
+New connection from 192.168.2.165:57293 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:11:02
+New connection from 192.168.2.165:57294 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:11:02
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:11:02
+Request: GET /favicon.ico HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.2.195:9999/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:11:05
+Request:  -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
+2022-05-13 23:11:20
+New connection from 192.168.2.165:57319 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:11:20
+New connection from 192.168.2.165:57320 -- /home/will/CppProject/WebServer/WebServer/Server.cpp:68
+2022-05-13 23:11:20
+Request: GET / HTTP/1.1
+Host: 192.168.2.195:9999
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/will/CppProject/WebServer/WebServer/HttpData.cpp:194
